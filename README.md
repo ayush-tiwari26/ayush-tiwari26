@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking and desktop GUI developement in python, do game development in C++ using Unreal Engine
+
+
+🌱 I am a full stack web developer (backend node.js & frontend react.js), do some Android Application Devlopment, and competative coding in JAVA.
 
 
 
