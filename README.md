@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+Ayush Tiwari. 
+Student at IIT MADRAS. 
+Pursuing Civil Engineering.
+From Dehradun
 
+Love Calisthanics, Rapping and Coding along with all these :P
 
 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some Android Application Devlopment, and competative coding in JAVA.
+4* at Codechef and 5* at Hackerank (JAVA).
 
 
 
