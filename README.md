@@ -11,7 +11,7 @@ Love Calisthanics, Rapping and Coding :P
 4* at Codechef and 5* at Hackerank (JAVA).
 
 
-<align="center">
+<div align="center">
 [![Ayush Tiwari's github
 stats](https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ##
@@ -20,7 +20,8 @@ stats](https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&count_
 ## -->
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tiwari26&langs_count=20&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-</>
+</div>
+
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ayush-tiwari26&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
