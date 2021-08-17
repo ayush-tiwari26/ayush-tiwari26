@@ -21,7 +21,7 @@ stats](https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&count_
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tiwari26&langs_count=20&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ayush-tiwari26&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-tiwari-233313203/">
