@@ -1,13 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Ayush Tiwari </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-tiwari26&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-Ayush Tiwari. 
 Student at IIT MADRAS. 
+Data Science Enthusiast 
 Pursuing Civil Engineering.
 From Dehradun
 
 Love Calisthanics, Rapping and Coding :P
 
-🌱 I am a full stack web developer (backend node.js & frontend react.js), do some Android Application Devlopment, and competative coding in JAVA.
+🌱 I am an Android Developer, do some full stack web development, and a actively learning Data Science.
+ do competative coding in JAVA and c++.
 4* at Codechef and 5* at Hackerank (JAVA).
 
 
@@ -20,7 +22,7 @@ stats](https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&count_
 
 
 
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ayush-tiwari26&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-tiwari-233313203/">
