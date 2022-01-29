@@ -2,14 +2,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-tiwari26&label=Profile%20views&color=0e75b6&style=flat" /> </p> 
 
 Hailing from Dehradun, I am a Software Developer pursuing an Undergraduate Degree from IIT Madras. I am skilled in Website Development (react.js & node.js), Native Android Development, Data Science, Computer Vision, and Natural Language Processing. Proficient in Java, I also code in c++, python, javascript, typescript, and kotlin.
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true" align="right"></img>
+</p>
 
-[![Ayush Tiwari's github
-stats](https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    
-
-  <span href="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tiwari26&theme=radical&langs_count=6&layout=compact"><img alt="Ayush Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tiwari26&theme=radical&langs_count=6&layout=compact" /></span>
-  
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-tiwari26&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p>
+<img align="left" alt="Ayush Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tiwari26&theme=radical&langs_count=6&layout=compact"></img>
+</p>
+<hr>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
      <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
