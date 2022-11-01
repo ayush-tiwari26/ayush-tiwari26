@@ -3,11 +3,9 @@
 
 Hailing from Dehradun, I am a Software Developer pursuing an Undergraduate Degree from IIT Madras. I am skilled in Website Development (react.js & node.js), Native Android Development, Data Science, Computer Vision, and Natural Language Processing. Proficient in Java, I also code in c++, python, javascript, typescript, and kotlin.
 
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tiwari26&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
-    </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
 
 * Machine Learning, Deep Learning, Natural Language Processing.(TensorFlow, TFLite & PyTorch)
 * Native Android Development
@@ -19,9 +17,7 @@ Hailing from Dehradun, I am a Software Developer pursuing an Undergraduate Degre
 
 ## Tools and Technologies
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ayush-tiwari26&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
+
  
  
 <h3 align="center">Languages and Tools</h3>
@@ -88,6 +84,7 @@ Hailing from Dehradun, I am a Software Developer pursuing an Undergraduate Degre
 </p>
 
 
+ 
 <h2 align="center">🔌 Connect with me </h2>
 <p align="center">
   <a align="left" href="https://www.linkedin.com/in/ayush-tiwari-233313203/">
@@ -101,8 +98,4 @@ Hailing from Dehradun, I am a Software Developer pursuing an Undergraduate Degre
   </a>
 </p>
 
-<div align=center>
-    <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ayush-tiwari26&theme=onedark&column=9" alt="zumrudu-anka" />
-    </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-tiwari26&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
